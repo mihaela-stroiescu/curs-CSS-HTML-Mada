@@ -1,0 +1,38 @@
+@import "fonts.css";
+@import "common.css";
+.cover {	
+	position: relative; 
+	width: 100%;
+}
+ .container-fluid .navbar-header .navbar-home {	 
+	display: block;
+	text-align: right;
+    color: #000;
+    padding: 8px 26px;
+    text-decoration: none;
+	
+}
+
+.container-fluid .navbar-header .navbar-aboutus {
+	display: block;
+	text-align: right;
+    color: #000;
+    padding: 8px 26px;
+    text-decoration: none;
+}
+
+.container-fluid .navbar-header .navbar-ourprojects {
+	display: block;
+	text-align: right;
+    color: #000;
+    padding: 8px 26px;
+    text-decoration: none;
+}
+
+.container-fluid .navbar-header .navbar-contactus {
+	display: block;
+	text-align: right;
+    color: #000;
+    padding: 8px 26px;
+    text-decoration: none;
+}

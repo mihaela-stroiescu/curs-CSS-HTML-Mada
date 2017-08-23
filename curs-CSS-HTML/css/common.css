@@ -1,0 +1,104 @@
+.cover {	
+	position: relative; 
+	width: 100%;
+}
+ .container-fluid .navbar-header .navbar-home {	 
+	display: block;
+	text-align: right;
+    color: #000;
+    padding: 8px 26px;
+    text-decoration: none;
+	
+}
+
+.container-fluid .navbar-header .navbar-aboutus {
+	display: block;
+	text-align: right;
+    color: #000;
+    padding: 8px 26px;
+    text-decoration: none;
+}
+
+.container-fluid .navbar-header .navbar-ourprojects {
+	display: block;
+	text-align: right;
+    color: #000;
+    padding: 8px 26px;
+    text-decoration: none;
+}
+
+.container-fluid .navbar-header .navbar-contactus {
+	display: block;
+	text-align: right;
+    color: #000;
+    padding: 8px 26px;
+    text-decoration: none;
+}
+
+/* pagina de bootstrap index2.html*/
+
+.div_demo {
+	height: 50px;
+	font-size: 16px;
+	font-weight: 900;
+}
+
+#div_1 {
+	background-color: #ccd4e2;
+	
+}
+
+#div_2 {
+	background-color: #57b8d1;
+	
+}
+
+#div_3 {
+	background-color: #4ce0a7;
+	
+}
+
+#div_4 {
+	background-color: #6cd17f;
+	
+}
+
+#div_5 {
+	background-color: #73e25d;
+	
+}
+
+#div_6 {
+	background-color: #c7ef86;
+	
+}
+
+#div_7 {
+	background-color: #e0e554;
+	
+}
+
+#div_8 {
+	background-color: #f3f934;
+	
+}
+
+#div_9 {
+	background-color: #efe7aa;
+	
+}
+
+#div_10 {
+	background-color: #fccf74;
+	
+}
+
+#div_11 {
+	background-color: #e09176;
+	
+}
+
+#div_12 {
+	background-color: #e29191;
+	
+}
